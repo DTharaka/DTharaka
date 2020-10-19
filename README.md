@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Tharaka  Dilruk.  An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
+
+
+
 <!--
 **DTharaka/DTharaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
