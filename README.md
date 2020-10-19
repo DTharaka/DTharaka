@@ -2,7 +2,7 @@
 
 I'm Tharaka  Dilruk.  An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
 
-Find  me  on:
+Find  me  on:<br/>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DilrukTharaka/)](https://twitter.com/DilrukTharaka/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tharaka_dil_95)](https://www.instagram.com/_tharaka_dil_95)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tharaka.dilruk.1)](https://www.facebook.com/tharaka.dilruk.1)
